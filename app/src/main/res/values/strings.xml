@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <string name="first">Android Convertor Application</string>
+    <string name="second">Enter your Number Here!</string>
+    <string name="third">Your Converted value is:</string>
+    <string name="hint1">Enter your Number to convert Here!</string>
+    <string name="btn">Convert the value</string>
+</resources>
